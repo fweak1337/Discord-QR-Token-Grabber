@@ -1,0 +1,28 @@
+{
+  "name": "Wick",
+  "token": "discord bot token",
+  "clientId": "discord bot client id",
+  "color": "2F3136",
+  "port": 3000,
+  "owner_ids": [
+    "discord user id to operate commands",
+    "discord user id to operate commands",
+    "discord user id to operate commands"
+  ],
+  "auto_boost": false,
+  "roles": {
+    "1360613571939008562": "1360909378332397658"
+  },
+  "log": { 
+    "guild_id": "ENTER GUILD ID FOR LOGS",
+    "channel_id": "ENTER CHANNEL ID FOR LOGS"
+  },
+  "auto_msg": {
+    "enabled": false,
+    "message_text": "message to send to friends list",
+    "block_after_msg": false
+  },
+  "capmonster": {
+    "key": "capmonster.cloud api key"
+  }
+}

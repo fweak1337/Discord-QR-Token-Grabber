@@ -1,0 +1,63 @@
+{
+  "name": "wick",
+  "version": "3.0.0",
+  "description": "Powerful discord.js v14 Wick",
+  "exports": null,
+  "type": "module",
+  "scripts": {
+    "start": "tsx src/index.mts --trace-warnings",
+    "format": "prettier . --write --cache --ignore-unknown",
+    "format:check": "prettier . --check --cache --ignore-unknown",
+    "lint-staged": "lint-staged",
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix"
+  },
+  "engines": {
+    "node": "22.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/k4itrun/wick.git"
+  },
+  "keywords": [],
+  "author": {
+    "name": "k4itrun",
+    "email": "contact@w1sh.xyz"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/k4itrun/wick/issues"
+  },
+  "homepage": "https://github.com/k4itrun/wick#readme",
+  "devDependencies": {
+    "@k4i/eslint-config": "^2.0.0",
+    "@k4i/prettier-config": "^2.0.0",
+    "@types/node": "^20.17.30",
+    "@types/node-fetch": "^2.6.12",
+    "@types/qrcode": "^1.5.5",
+    "nodemon": "^2.0.22",
+    "ts-node": "^10.9.2",
+    "tsx": "^4.19.3",
+    "typescript": "^5.8.3"
+  },
+  "dependencies": {
+    "@types/express": "^4.17.21",
+    "axios": "^1.8.4",
+    "colors": "^1.4.0",
+    "crypto": "^1.0.1",
+    "discord.js": "^14.18.0",
+    "dotenv": "^16.5.0",
+    "express": "^4.21.2",
+    "node-capmonster": "^0.3.0",
+    "node-fetch": "3.3.2",
+    "path": "^0.12.7",
+    "qrcode": "^1.5.4",
+    "sync-fetch": "^0.5.2"
+  },
+  "packageManager": "pnpm@10.8.0",
+  "pnpm": {
+    "onlyBuiltDependencies": [
+      "esbuild"
+    ]
+  }
+}
