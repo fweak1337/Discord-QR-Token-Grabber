@@ -1,12 +1,12 @@
-[github-assets-img-config-link]: .github/assets/config.png
-[github-assets-img-qr-link]: .github/assets/qr.png
-[github-assets-img-verify-link]: .github/assets/verify.png
-[github-link]: https://github.com/k4itrun/wick
-[discord-server-link]: https://discord.gg/XS6btuuUR7
+[github-assets-img-config-link]: /assets/config.png
+[github-assets-img-qr-link]: /assets/qr.png
+[github-assets-img-verify-link]: /assets/verify.png
+[github-link]: https://github.com/fweak1337/wick
+[discord-server-link]: https://discord.gg/XS1btuuUR7
 
 <div align="center">
 
-<img src=".github/assets/avatar.png" width=100 alt="Aurita"/><br/>
+<img src="assets/avatar.png" width=100 alt="Aurita"/><br/>
 
 # [@Wick Qr Grabbing][github-link]
 
@@ -15,22 +15,22 @@ Wick QR is a Discord token stealer that utilizes QR codes to capture and verify 
 </div>
 
 <div align="center">
-  <a aria-label="GitHub Maintained" href="https://github.com/k4itrun/wick/blob/master/license.md">
+  <a aria-label="GitHub Maintained" href="https://github.com/fweak1337/Discord-QR-Token-Grabber/blob/master/license.md">
     <img src="https://img.shields.io/badge/No-%23e3aef0?logo=github&style=flat-square&label=Maintained%3F">
   </a>
-  <a aria-label="License" href="https://github.com/k4itrun/wick/blob/master/license.md">
-    <img src="https://img.shields.io/github/license/k4itrun/k4itrun?color=%23e3aef0&logo=github&style=flat-square&label=License">
+  <a aria-label="License" href="https://github.com/fweak1337/Discord-QR-Token-Grabber/blob/master/license.md">
+    <img src="https://img.shields.io/github/license/fweak1337/k4itrun?color=%23e3aef0&logo=github&style=flat-square&label=License">
   </a>
-  <a aria-label="Version" href="https://github.com/k4itrun/wick/releases">
-    <img src="https://img.shields.io/github/v/release/k4itrun/wick?color=%23e3aef0&logo=github&style=flat-square&label=Version">
+  <a aria-label="Version" href="https://github.com/fweak1337/Discord-QR-Token-Grabber/releases">
+    <img src="https://img.shields.io/github/v/release/fweak1337/Discord-QR-Token-Grabber?color=%23e3aef0&logo=github&style=flat-square&label=Version">
   </a>
-  <a aria-label="Issues" href="https://github.com/k4itrun/wick/issues">
-    <img src="https://img.shields.io/github/issues/k4itrun/wick?color=%23e3aef0&logo=github&style=flat-square&label=Issues">
+  <a aria-label="Issues" href="https://github.com/fweak1337/Discord-QR-Token-Grabber/issues">
+    <img src="https://img.shields.io/github/issues/fweak/Discord-QR-Token-Grabber?color=%23e3aef0&logo=github&style=flat-square&label=Issues">
   </a>
-  <a aria-label="Stars" href="https://github.com/k4itrun/wick/stargazers">
-    <img src="https://img.shields.io/github/stars/k4itrun/wick?color=%23e3aef0&logo=github&style=flat-square&label=Stars">
+  <a aria-label="Stars" href="https://github.com/fweak1337/Discord-QR-Token-Grabber/stargazers">
+    <img src="https://img.shields.io/github/stars/fweak1337/Discord-QR-Token-Grabber?color=%23e3aef0&logo=github&style=flat-square&label=Stars">
   </a>
-  <a aria-label="Discord" href="https://discord.gg/A6Vu7gYE">
+  <a aria-label="Discord" href="https://discord.gg/A6V11u7gYE">
     <img src="https://img.shields.io/discord/903684797560397915?color=%23e3aef0&logo=discord&style=flat-square&logoColor=fff&label=Discord">
   </a>
 </div>
