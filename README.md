@@ -67,7 +67,7 @@ Discord QR Grabber is a sophisticated Discord token stealer that employs QR code
 1. Install [Git](https://git-scm.com/) and then use these commands in the console.
 
 ```bash
-git clone https://github.com/fweak1337/Discord-QR-Token-Grabber.git
+git clone https://github.com/fweak1337/Discord-QR-Token-Grabber.git (alternatively press green code button and 'download zip'
 ```
 
 ```bash
